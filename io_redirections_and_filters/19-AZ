@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "gimme the answer"
+tr Ac Ze
